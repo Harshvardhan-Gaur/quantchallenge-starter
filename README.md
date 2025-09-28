@@ -6,11 +6,11 @@
   - **Y1** ~ C, E, G, H, J, M, N  
   - **Y2** ~ A, B, D, F, I, K, L  
 
-## Model Performance
+## Basic Model Performance
 - **LightGBM**, **XGBoost** (with feature engineering and hyperparameter tuning), and **KNN**  
   - Achieved **R² ≈ 0.69 – 0.70**  
 
-## Advanced Models
+## Our Model Performance
 - **Cross-validation** with deep models:
   - Transformer-based model for **Y1**
   - CNN-based model for **Y2**
